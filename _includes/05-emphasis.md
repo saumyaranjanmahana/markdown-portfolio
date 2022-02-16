@@ -1,1 +1,4 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+__tech geek__ 🖥️
+__cyberdevops__ 🕵️
+__C++__ 🎉
+__Renpy__ 😅
